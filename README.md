@@ -13,6 +13,9 @@
     <a href="https://github.com/ShowTrak/ShowTrakServer"><strong>View ShowTrak Server (Main Project) »</strong></a>
     <br />
     <br />
+    <a href="https://github.com/ShowTrak/ShowTrakServer"><strong>View ShowTrak Client (Sub Project) »</strong></a>
+    <br />
+    <br />
     <a href="https://github.com/ShowTrak/ShowTrakClient/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
     <a href="https://github.com/ShowTrak/ShowTrakClient/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
