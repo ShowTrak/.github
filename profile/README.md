@@ -51,8 +51,8 @@ Features include:
 ## Acknowledgments
 * Ben Sugrue - WangTrack Developer (Original Version)
 * Cameron Tarplett
-* Royal Opera House [Alpha Testing]
-* Layered Reality [Beta Testing]
+* Royal Opera House [Beta Testing]
+* Layered Reality [Alpha Testing]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
