@@ -49,10 +49,11 @@ Features include:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-* Ben Sugrue - WangTrack Developer (Original Version)
-* Cameron Tarplett
+* [Tom Kirkman-Wood](https://tkw.bz) - Lead Developer
 * Royal Opera House [Beta Testing]
+* Cameron Tarplett (King of the Mountains)
 * Layered Reality [Alpha Testing]
+* Ben Sugrue - WangTrack Developer
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
