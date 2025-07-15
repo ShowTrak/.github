@@ -42,6 +42,30 @@ Features include:
 * 1 Click adoption of new devices
 * Automated client discovery via Bonjour
 
+## Roadmap
+
+The current roadmap for ShowTrak includes:
+
+- **v3.0**
+  - [x] Rewrite webapp to ElectronJS
+
+- **v3.1 Release**
+  - [ ] Script Manager
+  - [ ] USB Removal Notifications
+  - [ ] Remote Terminal
+
+- **v3.2 Release**
+  - [ ] Script Passwords
+  - [ ] Group Whitelisting
+  - [ ] OSC Triggers
+
+- **v3.3 Release**
+  - [ ] HTTP API
+
+*This roadmap is subject to change based on user feedback and project needs.*
+
+## Screenshots
+
 ![ShowTrak Screen Shot][showtrak-screenshot-1]
 ![ShowTrak Screen Shot][showtrak-screenshot-2]
 ![ShowTrak Screen Shot][showtrak-screenshot-3]
