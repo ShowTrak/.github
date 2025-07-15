@@ -46,7 +46,7 @@ Features include:
 
 The current roadmap for ShowTrak includes:
 
-- **v3.0**
+- **v3.0 Release**
   - [x] Rewrite webapp to ElectronJS
 
 - **v3.1 Release**
