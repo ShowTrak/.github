@@ -22,7 +22,10 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
+## Support
+
+Join our [Discord Server](https://discord.gg/DACmwsbSGW) for support
+
 ## About The Project
 
 ShowTrak is a project created to make monitoring and controlling computers on a local network easier for arcade style pc setups.
