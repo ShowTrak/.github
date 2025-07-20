@@ -22,6 +22,10 @@
   </p>
 </div>
 
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,js,html,css,regex,sqlite)](https://github.com/ShowTrak)
+
+[![Tech Stack](https://skillicons.dev/icons?i=electron,bootstrap,express,npm)](https://github.com/ShowTrak)
+
 ## Support
 
 Join our [Discord Server](https://discord.gg/DACmwsbSGW) for support
