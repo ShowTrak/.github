@@ -53,16 +53,17 @@ The current roadmap for ShowTrak includes:
   - [x] Rewrite webapp to ElectronJS
 
 - **v3.1 Release**
-  - [ ] Script Manager
-  - [ ] USB Removal Notifications
-  - [ ] Remote Terminal
+  - [X] USB Removal Notifications
+  - [X] Settings Menu
 
 - **v3.2 Release**
+  - [ ] OSC Triggers
+  - [ ] Script Manager
   - [ ] Script Passwords
   - [ ] Group Whitelisting
-  - [ ] OSC Triggers
 
 - **v3.3 Release**
+  - [ ] Remote Terminal
   - [ ] HTTP API
 
 *This roadmap is subject to change based on user feedback and project needs.*
