@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://showtrak.co.uk"><img src="https://showtrak.co.uk/images/logo.png" alt="ShowTrak logo" width="128" height="128"></a>
+<a href="https://github.com/ShowTrak/ShowTrakServer"><img src="https://raw.githubusercontent.com/ShowTrak/.github/main/images/ShowTrakServer.png" alt="ShowTrak Server" width="96" height="96"></a> &nbsp; <a href="https://github.com/ShowTrak/ShowTrakClient"><img src="https://raw.githubusercontent.com/ShowTrak/.github/main/images/ShowTrakClient.png" alt="ShowTrak Client" width="96" height="96"></a> &nbsp; <a href="https://github.com/ShowTrak/ShowTrakTimers"><img src="https://raw.githubusercontent.com/ShowTrak/.github/main/images/ShowTrakTimers.png" alt="ShowTrak Timers" width="96" height="96"></a>
 
 # ShowTrak
 
